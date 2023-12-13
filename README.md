@@ -39,5 +39,3 @@
 
 </androidx.constraintlayout.widget.ConstraintLayout>
 ```
-# Output
-![gambar](/img/1.png)
